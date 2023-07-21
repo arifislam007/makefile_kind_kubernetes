@@ -4,7 +4,7 @@
 apt install make
 
 ## Just go with the following command to create Kubernetes cluster in a single node
-#For creating environment for kubetnetes cluste 
+### For creating environment for kubetnetes cluste 
 make new
 
 ### For creating your first kubernetes cluster
