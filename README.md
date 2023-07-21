@@ -4,10 +4,10 @@
 #For creating environment for kubetnetes cluste 
 make new
 
-# For creating your first kubernetes cluster
+### For creating your first kubernetes cluster
 make up clusterName
 
-#For check if cluster deployed
+### For check if cluster deployed
 make check
-#For deleting kubernetes cluster 
+### For deleting kubernetes cluster 
 make delete 
