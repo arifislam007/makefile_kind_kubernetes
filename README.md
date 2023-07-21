@@ -1,4 +1,13 @@
 # makefile_kind_kubernetes
 
-1st Need to Download Kind
-curl -Lo ./kind https://kind.sigs.k8s.io/dl/v0.20.0/kind-linux-amd64
+## Just go with the following command to create Kubernetes cluster in a single node
+#For creating environment for kubetnetes cluste 
+make new
+
+# For creating your first kubernetes cluster
+make up clusterName
+
+#For check if cluster deployed
+make check
+#For deleting kubernetes cluster 
+make delete 
