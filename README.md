@@ -10,6 +10,9 @@ make new
 ### For creating your first kubernetes cluster
 make up clusterName
 
+### For kubernets deployment 
+make deploy
+
 ### For check if cluster deployed
 make check
 ### For deleting kubernetes cluster 
